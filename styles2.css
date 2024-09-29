@@ -1,0 +1,15 @@
+.logo {width:200;cursor:pointer;}
+
+.navbar {text-align:center;float:right;}
+.navbar a{padding:6 20;text-decoration:none;color:black;margin-left:20;font-size:18;font-weight:bold;font-family:Arial,sans-serif;}
+.navbar a.active {color:white;background-color:SteelBlue;}
+.navbar a:hover {background-color:Lavender;color:MintCream;}
+
+.content {text-align:center;margin-top:5%;font-size:24;font-family:Arial,sans-serif;background-color:MintCream;}
+.projects {font-size:18;font-family:Arial,sans-serif;background-color:MintCream;}
+.address_num {font-size:18;font-family:Arial,sans-serif;background-color:Lavender;}
+.subheading {font-size:24;font-weight:bold;font-family:Arial,sans-serif;background-color:MintCream;}
+.subheading1 {font-size:24;font-weight:bold;font-family:Arial,sans-serif;margin-top:6%}
+
+.students {width:1350;height:300;}
+body {background-image:url("tech.jpg");}
